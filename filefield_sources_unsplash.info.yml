@@ -1,0 +1,7 @@
+name: filefield_sources_unsplash
+description: 'Provides Unsplash file field source'
+type: module
+package: Fields
+core: 8.x
+dependencies:
+  - filefield_sources
